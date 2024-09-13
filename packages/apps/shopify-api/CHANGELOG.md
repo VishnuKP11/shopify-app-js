@@ -1,5 +1,11 @@
 # Changelog
 
+## 11.4.1
+
+### Patch Changes
+
+- 323bef3: Update documentation to make it clear when to use app-specific vs shop-specific webhooks and which methods/config uses which approach
+
 ## 11.4.0
 
 ### Minor Changes
